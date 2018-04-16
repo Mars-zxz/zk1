@@ -134,6 +134,7 @@ nav>ol>li {
 footer {
     width: 100%;
     height: 45px;
+    background: #2D2828;
 }
 
 footer>ol {
@@ -149,4 +150,8 @@ footer>ol>li {
 
 footer>ol>li>span {
     display: block;
+}
+
+footer>ol>li>b {
+    font-weight: 200;
 }
